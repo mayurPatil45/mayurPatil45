@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayur Patil</h1>
-<h3 align="center">Be Aware Be Safe !</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate programmer with expertise in various languages and technologies !!!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurpatil45&label=Profile%20views&color=0e75b6&style=flat" alt="mayurpatil45" /> </p>
@@ -32,4 +32,4 @@
 
 <a href="http://www.github.com/mayurPatil45"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurPatil45&stroke=14b8a6&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/mayurPatil45"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mayurPatil45&bg_color=1c1917&color=14b8a6&line=0891b2&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+Feel free to reach out to me via any of these platforms. I'm always open to interesting collaborations and discussions.
