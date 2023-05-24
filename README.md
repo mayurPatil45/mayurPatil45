@@ -32,4 +32,6 @@
 
 <a href="http://www.github.com/mayurPatil45"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurPatil45&stroke=14b8a6&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurPatil45&show_icons=true&theme=dark)
+
 Feel free to reach out to me via any of these platforms. I'm always open to interesting collaborations and discussions.
